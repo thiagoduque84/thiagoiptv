@@ -18,3 +18,6 @@ https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/history.m3u8
 
 #EXTINF:-1 group-title="Esportes",Premiere Clube
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/premiere.m3u8
+
+#EXTINF:-1 group-title="Notícias",Globo News
+https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/globonews.m3u8
