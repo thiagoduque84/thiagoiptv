@@ -1,0 +1,20 @@
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Documentários" tvg-name="Discovery Turbo",Discovery Turbo
+https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/discoveryturbo.m3u8
+
+#EXTINF:-1 group-title="Abertos" tvg-name="Globo ES",Globo ES
+https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/globoes.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN
+https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/espn.m3u8
+
+#EXTINF:-1 group-title="Esportes",SporTV
+https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/sportv.m3u8
+
+#EXTINF:-1 group-title="Documentários",History
+https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/history.m3u8
+
+#EXTINF:-1 group-title="Esportes",Premiere Clube
+https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/premiere.m3u8
