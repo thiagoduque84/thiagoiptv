@@ -1,41 +1,40 @@
-
 #EXTM3U
 
-#EXTINF:-1 group-title="Documentários",Discovery Turbo
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Discovery_Turbo_logo.svg" group-title="Documentários",Discovery Turbo
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/discoveryturbo.m3u8
 
-#EXTINF:-1 group-title="Abertos",Globo-ES
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/TV_Globo_logo.svg" group-title="Abertos",Globo-ES
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/globoes.m3u8
 
-#EXTINF:-1 group-title="Abertos",Globo-RJ
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/TV_Globo_logo.svg" group-title="Abertos",Globo-RJ
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/globorj.m3u8
 
-#EXTINF:-1 group-title="Esportes",ESPN
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_wordmark.svg" group-title="Esportes",ESPN
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/espn.m3u8
 
-#EXTINF:-1 group-title="Esportes",SporTV
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/SporTV_logo.svg" group-title="Esportes",SporTV
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/sportv.m3u8
 
-#EXTINF:-1 group-title="Documentários",History
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/History_Logo.svg" group-title="Documentários",History
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/history.m3u8
 
-#EXTINF:-1 group-title="Esportes",Premiere Clube
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Premiere_(Brazilian_TV_channel)_logo.svg" group-title="Esportes",Premiere Clube
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/premiere.m3u8
 
-#EXTINF:-1 group-title="Notícias",Globo News
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/GloboNews_logo.svg" group-title="Notícias",Globo News
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/globonews.m3u8
 
-#EXTINF:-1 group-title="Abertos",Record-RJ
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/RecordTV_logo.svg" group-title="Abertos",Record-RJ
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/recordrj.m3u8
 
-#EXTINF:-1 group-title="Esportes",Paramount+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Paramount_Plus.svg" group-title="Esportes",Paramount+
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/paramountplus.m3u8
 
-#EXTINF:-1 group-title="Documentários",Discovery Channel
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Discovery_Channel_logo.svg" group-title="Documentários",Discovery Channel
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/discoverychannel.m3u8
 
-#EXTINF:-1 group-title="Abertos",SBT-SP
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/SBT_logo.svg" group-title="Abertos",SBT-SP
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/sbtsp.m3u8
 
-#EXTINF:-1 group-title="Abertos",BAND-SP
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Band_logo.svg" group-title="Abertos",BAND-SP
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/bandsp.m3u8
