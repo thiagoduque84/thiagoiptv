@@ -12,7 +12,7 @@ https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/globorj.m3u8
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_wordmark.svg" group-title="Esportes",ESPN
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/espn.m3u8
 
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/SporTV_logo.svg" group-title="Esportes",SporTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logotipo_do_SporTV_%282021%29.svg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Esportes",SporTV
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/sportv.m3u8
 
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/History_Logo.svg" group-title="Documentários",History
