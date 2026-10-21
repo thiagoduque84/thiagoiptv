@@ -24,7 +24,7 @@ https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/premiere.m3u8
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/GloboNews_logo.svg" group-title="Notícias",Globo News
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/globonews.m3u8
 
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/RecordTV_logo.svg" group-title="Abertos",Record-RJ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Abertos",Record-RJ
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/recordrj.m3u8
 
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Paramount_Plus.svg" group-title="Esportes",Paramount+
