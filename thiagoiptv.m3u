@@ -39,10 +39,10 @@ https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/sbtsp.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Band_2026_logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Abertos",BAND-SP
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/bandsp.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Max_logo.svg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Esportes",MAX 1
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo.png" group-title="Esportes",MAX 1
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/max1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Max_logo.svg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Esportes",MAX 2
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo.png" group-title="Esportes",MAX 2
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/max2.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo.png" group-title="Esportes",MAX 3
