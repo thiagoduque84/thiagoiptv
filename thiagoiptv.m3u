@@ -9,10 +9,10 @@ https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/globoes.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Abertos",Globo-RJ
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/globorj.m3u8
 
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_wordmark.svg" group-title="Esportes",ESPN
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-5.png" group-title="Esportes",ESPN
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/espn.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logotipo_do_SporTV_%282021%29.svg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Esportes",SporTV
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-5-1.png" group-title="Esportes",SporTV
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/sportv.m3u8
 
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/History_Logo.svg" group-title="Documentários",History
@@ -27,7 +27,7 @@ https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/globonews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Abertos",Record-RJ
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/recordrj.m3u8
 
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Paramount_Plus.svg" group-title="Esportes",Paramount+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo.png" group-title="Esportes",Paramount+
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/paramountplus.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_-_Logo_2019.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Documentários",Discovery Channel
