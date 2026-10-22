@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Discovery_turbo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Documentários",Discovery Turbo
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Discovery_turbo.png#/media/File:Discovery_turbo.png" group-title="Documentários",Discovery Turbo
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/discoveryturbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_TV_Gazeta_ES.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Abertos",Globo-ES
