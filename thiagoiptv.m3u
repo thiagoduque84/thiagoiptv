@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Discovery_turbo.png#/media/File:Discovery_turbo.png" group-title="Documentários",Discovery Turbo
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/discoveryturbo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_TV_Gazeta_ES.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Abertos",Globo-ES
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-8.png" group-title="Abertos",Globo-ES
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/globoes.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Abertos",Globo-RJ
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="Abertos",Globo-RJ
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/globorj.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-5.png" group-title="Esportes",ESPN
