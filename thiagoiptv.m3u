@@ -1,13 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Documentários",Discovery Turbo
-https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/discoveryturbo.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_TV_Gazeta_ES.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Abertos",Globo-ES Sul
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_TV_Gazeta_ES.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Abertos",Globo-ES 
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/globoes.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_TV_Gazeta_ES.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Abertos",Globo-ES
-https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz/globoes/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="Abertos",Globo-RJ
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/globorj.m3u8
@@ -27,6 +21,9 @@ https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/premiere.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="Notícias",Globo News
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/globonews.m3u8
 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="Notícias",CNN Brasil
+https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/cnnbrasil.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Abertos",Record-RJ
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/recordrj.m3u8
 
@@ -35,6 +32,9 @@ https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/paramountplus.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Documentários",Discovery Channel
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/discoverychannel.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Documentários",Discovery Turbo
+https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/discoveryturbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="Abertos",SBT-SP
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/sbtsp.m3u8
@@ -54,6 +54,5 @@ https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/max3.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/prime-video-logo-0.png" group-title="Esportes",Prime Vídeo 1
 https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/primevideo.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="Notícias",CNN Brasil
-https://t5r4e3w2q1y0ty.s23-cloudfront-net.lat/_temp/cnnbrasil.m3u8
+
 
